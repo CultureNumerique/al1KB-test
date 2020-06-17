@@ -1,6 +1,6 @@
 
 ## Le cours d'Al1 et de KB le **jardinier**
-ajout test reajout
+ajout 17/06/20
 1. Créez-vous un compte sur un gestionnaire de version de fichier de type 'git' (GitHub, Gitlab, Bitbucket, etc).
 1. Dupliquez ce dépôt de fichier et importez le. Si vous utilisez GitHub, faites simplement "Fork"
 2. La structure de ce template est simple:

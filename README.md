@@ -1,7 +1,7 @@
 
-Template de cours pour créer des cours avec Esc@Pad ajout 17/06/20
+Template de cours pour créer des cours avec Esc@Pad 
 
-## Créer son programme de cours avec Esc@Pad
+## Créer son programme de cours avec Esc@Pad ajout 17/06/20
 
 1. Créez-vous un compte sur un gestionnaire de version de fichier de type 'git' (GitHub, Gitlab, Bitbucket, etc). 
 1. Dupliquez ce dépôt de fichier et importez le. Si vous utilisez GitHub, faites simplement "Fork"
